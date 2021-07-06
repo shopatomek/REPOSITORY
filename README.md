@@ -23,7 +23,7 @@ Projekt Generator – to nowa wersja oficjalnej strony firmowej kierowanej do pr
 4) Gatling: https://gatling.io/
 5) Postman 
 
-##Zakres testów: 
+## Zakres testów: 
 1) Strona powinna być dostosowana do popularnych urządzeń oraz przeglądarek. Uwzględniono Rozdzielczości desktopowe: 1920x1080, mobilne 360 x 640, tablet 768 x 1024
 
 2) Strona w 3 językach: polski, niemiecki, angielski
@@ -31,7 +31,9 @@ Projekt Generator – to nowa wersja oficjalnej strony firmowej kierowanej do pr
 
 ## Testy:
 
-1) ID: #3072, #3080, #3192, #3194 - Logowanie, Integracja SAP, Terminy dostaw, Kontrakty
+1) ID: 3072, 3080, 3192, 3194 - Logowanie, Integracja SAP, Terminy dostaw, Kontrakty
+
+
 
 ## Link do Testplanów:
 
