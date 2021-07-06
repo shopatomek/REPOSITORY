@@ -24,7 +24,7 @@ Projekt Generator – to nowa wersja oficjalnej strony firmowej kierowanej do pr
 5) Postman 
 
 ## Zakres testów: 
-1) Strona powinna być dostosowana do popularnych urządzeń oraz przeglądarek. Uwzględniono Rozdzielczości desktopowe: 1920x1080, mobilne 360 x 640, tablet 768 x 1024
+1) Strona powinna być dostosowana do popularnych urządzeń oraz przeglądarek. Uwzględniono Rozdzielczości: desktopowe - 1920x1080 px, mobilne - 360 x 640px, tablet - 768 x 1024px
 
 2) Strona w 3 językach: polski, niemiecki, angielski
 
